@@ -38,5 +38,5 @@ This project is licensed under the MIT License.
 ---
 ### 📬 Contact
 For any queries, feel free to reach out:
-- Email: your-email@example.com
+- Email: vaibhav.patel2717@gmail.com
 - GitHub: [Vaibhavv27](https://github.com/Vaibhavv27)
