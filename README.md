@@ -29,9 +29,6 @@ Simply open the `index.html` file in your browser.
 - Implement backend functionality
 - Improve responsiveness
 
-## 🤝 Contributing
-Feel free to fork the repository and submit pull requests.
-
 ## 📜 License
 This project is licensed under the MIT License.
 
